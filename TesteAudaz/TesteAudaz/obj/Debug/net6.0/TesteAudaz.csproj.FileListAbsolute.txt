@@ -1,0 +1,14 @@
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.AssemblyInfoInputs.cache
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.AssemblyInfo.cs
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.csproj.CoreCompileInputs.cache
+C:\Personalizados\TesteAudaz\TesteAudaz\bin\Debug\net6.0\TesteAudaz.exe
+C:\Personalizados\TesteAudaz\TesteAudaz\bin\Debug\net6.0\TesteAudaz.deps.json
+C:\Personalizados\TesteAudaz\TesteAudaz\bin\Debug\net6.0\TesteAudaz.runtimeconfig.json
+C:\Personalizados\TesteAudaz\TesteAudaz\bin\Debug\net6.0\TesteAudaz.dll
+C:\Personalizados\TesteAudaz\TesteAudaz\bin\Debug\net6.0\TesteAudaz.pdb
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.dll
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\refint\TesteAudaz.dll
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.pdb
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\TesteAudaz.genruntimeconfig.cache
+C:\Personalizados\TesteAudaz\TesteAudaz\obj\Debug\net6.0\ref\TesteAudaz.dll
